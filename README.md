@@ -1,4 +1,4 @@
-#Estruturas de repetição e funções
+# Estruturas de repetição e funções
 
 Projeto 04 do curso Introdução à Programação da Proz Tech
 
